@@ -281,7 +281,7 @@ PERSISTENT_MENU = {
             ]
         },
         {
-            "locale": "hi_IN",
+            "locale": "or_IN",
             "composer_input_disabled": False,
             "call_to_actions": [
                 {
